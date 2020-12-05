@@ -1,2 +1,2 @@
 Twitter Oturum Açma BOT
-Yakındar birkaç twiti çekme özelliğinide eklemek istiyorum.
+Yakında birkaç twiti çekme özelliğinide eklemek istiyorum.
